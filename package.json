@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "download" : "https://www.dropbox.com/s/i4bl7qpema7ziic/montnight.mp4?dl=1",
     "build": "webpack"
   },
   "author": "Kensei Demura",
